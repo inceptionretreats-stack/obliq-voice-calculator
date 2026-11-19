@@ -2,6 +2,8 @@
 
 [Live website](https://obliq-voice-calculator.vercel.app/)
 
+[Source code on GitHub](https://github.com/inceptionretreats-stack/obliq-voice-calculator)
+
 A standalone HTML website by Digital Hammerr. All website code is in `index.html`.
 
 ## Deployment
